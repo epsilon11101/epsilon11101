@@ -75,7 +75,8 @@
 </div>
     
 <div>    
-    ![Epsilon Github Stats](https://github-readme-stats.vercel.app/api?username=epsilon11101&count_private=true)
+    [![Epsilon Github Stats](https://github-readme-stats.vercel.app/api?username=epsilon11101&count_private=true&show_icons=true&theme=ocean_dark)
+)]
 </div?
 
 
