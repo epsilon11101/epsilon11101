@@ -1,4 +1,6 @@
 
+
+
 <div>
     <hr>
     <div id="header" align="center">
@@ -71,4 +73,9 @@
     <h2> 🔭 My Stats : </h2>
 
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epsilon11101&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    
+<div>    
+    ![Epsilon Github Stats](https://github-readme-stats.vercel.app/api?username=epsilon11101&count_private=true)
+</div?
+
+
