@@ -24,16 +24,18 @@
 </div>
 
 <div>
-    <h2> 🛸 ABOUT ME : </h2>
+    <h2> 🛸 ABOUT ME 🛸 </h2>
 
-    - 🪐 I enjoy working in a team, facing challenges, and finding innovative solutions to difficult problems. My technical skills in computer science and
+    I enjoy working in a team, facing challenges, and finding innovative solutions to difficult problems. My technical skills in computer science and
     my ability to think creatively make me a valuable contributor to any project. I'm excited to continue learning and growing as a professional.
 
 </div>
 
-<div>
- <h2> 🚀 Languages and Tools </h2>
- <ul style="display: flex; justify-content: center; flex-wrap: wrap; list-style-type: none; padding: 0;">
+<div align="center" >
+ <h2> 🚀 LANGUAGES AND TOOLS 🚀 </h2>
+    </div>
+    <div>
+ <ul>
     <li>
           <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" title="" alt="" width="30" height="30" />
@@ -86,8 +88,7 @@
 </div>
 
 <div align="center" >
-    <h2> 🔭 My Stats : </h2>
-
+    <h2> 🔭 MY STATS 🔭</h2>
 </div>
 
 | ![Epsilon Github Stats](https://github-readme-stats.vercel.app/api?username=epsilon11101&count_private=true&show_icons=true&theme=ocean_dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epsilon11101&layout=compact&theme=jolly&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
