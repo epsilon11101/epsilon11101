@@ -85,11 +85,13 @@
 
 </div>
 
-<div>
+<div align="center" >
     <h2> 🔭 My Stats : </h2>
 
 </div>
-
+<div align="center">
 ![Epsilon Github Stats](https://github-readme-stats.vercel.app/api?username=epsilon11101&count_private=true&show_icons=true&theme=ocean_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epsilon11101&layout=compact&theme=jolly&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
