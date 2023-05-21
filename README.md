@@ -93,3 +93,6 @@
 
 | ![Epsilon Github Stats](https://github-readme-stats.vercel.app/api?username=epsilon11101&count_private=true&show_icons=true&theme=ocean_dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epsilon11101&layout=compact&theme=jolly&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    
+![](https://github-profile-trophy.vercel.app/?username=epsilon11101&ryo-ma&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+ 
