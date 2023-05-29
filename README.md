@@ -8,8 +8,12 @@
 
 <div id="badges" align='center'>
 
-  <a href="https://twitter.com/AmirandaMv">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://drive.google.com/file/d/1s7a5kyu0H-JsgTnCClJbPwBnIsBe2y4J/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download my Resume-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Resume"/>
+  </a>
+    
+   <a href="https://wa.link/g6y6hq">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
   
    <a href="https://www.linkedin.com/in/aaron-miranda-04a773246">
