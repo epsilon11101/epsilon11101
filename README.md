@@ -8,6 +8,8 @@
 
 <h3 align="left">Hi 👋! My name is Aaron and I'm a React FrontEnd Developer</h3>
 
+<h3 align="left">Hi 👋! My name is Aaron and I'm a React FrontEnd Developer</h3>
+
 ###
 
 <br clear="both">
@@ -62,8 +64,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/epsilon11101/epsilon11101/output/snake.svg" alt="Snake animation" />
 
