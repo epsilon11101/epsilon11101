@@ -8,8 +8,6 @@
 
 <h3 align="left">Hi 👋! My name is Aaron and I'm a React FrontEnd Developer</h3>
 
-<h3 align="left">Hi 👋! My name is Aaron and I'm a React FrontEnd Developer</h3>
-
 ###
 
 <br clear="both">
