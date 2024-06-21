@@ -63,6 +63,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/epsilon11101/epsilon11101/output/snake.svg" alt="Snake animation" />
 
 ###
